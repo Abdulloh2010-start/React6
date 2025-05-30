@@ -14,7 +14,7 @@ export default function Section5 () {
           <button className='button5'>App store</button>
         </div>
       </div>
-      <img style={{width: "1440px", height: "600px" , margin: "0 auto", zIndex: "-2", position: "relative", top: "-210px", left: "289px",}} src={fon} alt="0"/>
+      <img className="section5-img" src={fon} alt="fon"/>
     </div>
   )
 };

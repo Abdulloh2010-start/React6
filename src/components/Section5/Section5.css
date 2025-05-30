@@ -69,3 +69,13 @@
     border: none;
     background-color: orangered;
 }
+
+.section5-img {
+  display: block;
+  width: 100%;
+  max-width: 1440px;
+  height: auto;
+  margin: -210px auto 0 auto;
+  position: relative;
+  z-index: -2;
+}
