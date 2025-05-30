@@ -1,4 +1,5 @@
 import img from "./Group 53.png";
+import fon from "./Rectangle 48.png";
 import "./Section.css";
 
 export default function Section() {
@@ -14,6 +15,7 @@ export default function Section() {
         <button className='button'>App store</button>
       </div>
       <div className="border"></div>
+      <img style={{width: "1440px", margin: "0 auto", zIndex: "-2", position: "relative", top: "-280px", left: "0px",}} src={fon} alt="0"/>
       <img src={img} alt="0" />
     </div>
   )

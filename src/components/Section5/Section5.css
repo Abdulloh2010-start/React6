@@ -13,12 +13,8 @@
     max-width: 1440px;
     width: 100%;
     margin: 0 auto;
-    height: 619px;
     text-align: center;
     color: white;
-    background-image: url("./src/components/Section5/Rectangle 47.png");
-    background-size: cover;
-    background-repeat: no-repeat;
 }
 
 .text-menu5 h1{
@@ -72,11 +68,4 @@
 .button5:hover{
     border: none;
     background-color: orangered;
-}
-
-.Section5 img{
-    position: relative;
-    top: 50px;
-    left: -50px;
-    border-bottom: 3px solid rgb(213, 213, 213);
 }

@@ -16,9 +16,6 @@
     height: 619px;
     text-align: center;
     color: white;
-    background-image: url("./src/components/Section/Rectangle 48.png");
-    background-size: cover;
-    background-repeat: no-repeat;
     position: relative;
 }
 
@@ -89,7 +86,7 @@
     width: 548px;
     height: 790px;
     position: relative;
-    top: 60px;
+    top: -720px;
     left: -70px;
 }
 
